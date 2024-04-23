@@ -1,0 +1,17 @@
+{
+  "name": "raw2",
+  "type": "containerized",
+  "blockId": "zuLogU_spycbro-biYPYZ",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_raw2"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
